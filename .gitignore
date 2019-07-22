@@ -26,6 +26,8 @@ target/
 .DS_Store
 hs_err_pid*
 
+log/
+
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
